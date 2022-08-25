@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10, 10)
-if nummber > 0:
+if number > 0:
 	print("{} is positve".format(number))
 elif number == 0:
 	print("{} is zero".format(number))
